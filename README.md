@@ -1,0 +1,2 @@
+# Bosty
+Discord Bot
